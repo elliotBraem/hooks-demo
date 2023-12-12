@@ -27,7 +27,7 @@ jobs:
 
       - name: Build the workspaces
         run: |
-          npm run bos-workspace build
+          npm run bosworkspace build
 
       - name: Deploy widgets
         working-directory: ./build/BosGenaDrop
