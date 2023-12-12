@@ -1,1 +1,1 @@
-return <p>{"Hello /*__@appAccount__*/!"}</p>;
+return <p>Hello world</p>;
